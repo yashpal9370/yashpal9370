@@ -1,4 +1,4 @@
-# yashpal9370
+
 <div align="center">
 
 # Hi 👋, I'm Yashpal Rajput
@@ -26,7 +26,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/Yashpal Rajput" target="blank">
+<a href="https://linkedin.com/in/YashpalRajput" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -56,12 +56,12 @@
 | Category | Technologies |
 |----------|--------------|
 | Cloud | AWS EC2, S3, IAM, VPC |
-| DevOps | Docker, CI/CD | Git |
+| DevOps | Docker, CI/CD, Git |
 | IaC | Terraform |
-| OS | Linux | Ubuntu | Windows |
-| Programming | Python | JAva | C++ |
-| Database | MySQL | 
-| WebTech | Html | Css | Js |
+| OS | Linux, Ubuntu, Windows |
+| Programming | Python, Java, C++ |
+| Database | MySQL |
+| WebTech | HTML, CSS, JavaScript |
 
 ---
 
