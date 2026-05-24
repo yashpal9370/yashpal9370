@@ -5,7 +5,7 @@
 
 ### ☁️ Cloud & DevOps Enthusiast | Python Developer | MCA Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;DevOps+Learner;Python+Developer;Linux+%26+Terraform+Enthusiast;Building+Real+World+Cloud+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;DevOps+Learner;Python+Developer;Building+Real+World+Infrastructure+Projects;AWS+EC2+%7C+EBS+%7C+Linux+%7C+Bash" />
 
 </div>
 
@@ -26,7 +26,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YashpalRajput" target="blank">
+<a href="https://www.linkedin.com/in/yashpal-rajput-2a58a8312" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
