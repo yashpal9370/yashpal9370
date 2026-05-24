@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Hi 👋, I'm Yashpal Rajput
 
-### ☁️ Cloud & DevOps Enthusiast | Python Developer | MCA Student
+### ☁️ Cloud & DevOps Enthusiast | AWS Cloud Engineer | Python Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;DevOps+Learner;Python+Developer;Building+Real+World+Infrastructure+Projects;AWS+EC2+%7C+EBS+%7C+Linux+%7C+Bash" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;DevOps+Learner;Python+Developer;Building+Cloud+Infrastructure+Projects;AWS+EC2+%7C+Linux+%7C+Docker+%7C+Bash" alt="Typing SVG" />
 
 </div>
 
@@ -13,30 +12,31 @@
 
 # 🚀 About Me
 
-- 🎓 MCA Final Year Student
 - ☁️ Passionate about AWS Cloud & DevOps
+- 🐧 Linux & Ubuntu Enthusiast
 - 🐍 Python & Flask Developer
-- 🐧 Linux Enthusiast
-- 🚀 Learning CI/CD, Docker & Terraform
-- 📚 Currently Building Cloud Projects
-- 💼 Looking for DevOps / Cloud Opportunities
+- 🚀 Learning Docker, Terraform & CI/CD
+- 💡 Interested in Cloud Infrastructure & Automation
+- 💼 Open to Cloud / DevOps Opportunities
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yashpal-rajput-2a58a8312" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/yashpal-rajput-2a58a8312/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/yashpal9370" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/yashpal9370" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 <a href="mailto:yashpal9370@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" />
 </a>
+
 </p>
 
 ---
@@ -45,35 +45,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,python,flask,git,github,vscode,mysql,bash" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,python,flask,bash,git,github,mysql,vscode" />
 
 </div>
 
 ---
 
-# ☁️ DevOps & Cloud Tools
+# ☁️ Cloud & DevOps Skills
 
 | Category | Technologies |
 |----------|--------------|
-| Cloud | AWS EC2, S3, IAM, VPC |
-| DevOps | Docker, CI/CD, Git |
-| IaC | Terraform |
-| OS | Linux, Ubuntu, Windows |
-| Programming | Python, Java, C++ |
-| Database | MySQL |
-| WebTech | HTML, CSS, JavaScript |
+| Cloud | AWS EC2, EBS, IAM, VPC, S3, AMI |
+| DevOps | Docker, Git, GitHub, CI/CD |
+| Web Servers | Apache, Nginx |
+| OS & Networking | Linux, Ubuntu, Networking, Subnetting |
+| Programming | Python, Bash, Java, SQL |
+| Database | MySQL, MongoDB |
+| Web Tech | Flask, HTML, CSS, JavaScript |
 
 ---
 
 # 🚀 Featured Projects
 
-## ☁️ AWS Projects
+## ☁️ AWS & DevOps Projects
 
 - 🔹 Node.js Application Deployment on AWS EC2
+- 🔹 AWS EC2 EBS Storage Migration
+- 🔹 AWS AMI Cross-Account Sharing
 - 🔹 Static Website Hosting using AWS S3
 - 🔹 AWS 3-Tier Architecture Deployment
-- 🔹 EBS Volume Migration Between EC2 Instances
-- 🔹 VPC Configuration & Security
+- 🔹 VPC Configuration & Security Setup
 
 ---
 
@@ -81,7 +82,7 @@
 
 - 🌦️ Weather Dashboard using Flask & OpenWeather API
 - 🏠 HomeAssist Smart Marketplace
-- 🔹 Linux Automation Scripts
+- ⚡ Linux Automation Scripts
 
 ---
 
@@ -89,24 +90,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashpal9370&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashpal9370&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpal9370&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpal9370&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashpal9370/yashpal9370/output/github-contribution-grid-snake.svg" />
-</p>
 ---
 
 # 📈 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpal9370&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpal9370&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,11 +128,21 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashpal9370/yashpal9370/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 # 👀 Profile Views
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=yashpal9370&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=yashpal9370&color=blueviolet" />
 
 </div>
 
@@ -144,7 +150,11 @@
 
 # 💡 DevOps Quote
 
+<div align="center">
+
 > “First, solve the problem. Then, automate it.” 🚀
+
+</div>
 
 ---
 
