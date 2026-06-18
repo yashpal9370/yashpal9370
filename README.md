@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Yashpal Rajput
 
-### ☁️ Cloud & DevOps Enthusiast | AWS Cloud Engineer | Python Developer
+### ☁️ | Cloud Engineer Intern | Cloud & DevOps Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;DevOps+Learner;Python+Developer;Building+Cloud+Infrastructure+Projects;AWS+EC2+%7C+Linux+%7C+Docker+%7C+Bash" alt="Typing SVG" />
 
